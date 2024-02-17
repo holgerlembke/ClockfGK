@@ -2,7 +2,7 @@
 
 A basic clock framework for the ESP8266 to build a WiFi syncronized clock.
 
-[](https://raw.githubusercontent.com/holgerlembke/303WIFILC01Uhr/main/img/303WifiLC01f.jpg)
+![](https://github.com/holgerlembke/ClockfGK/blob/main/img/303WifiLC01f.jpg?raw=true)
 
 # History
 
