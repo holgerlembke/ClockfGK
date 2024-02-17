@@ -76,7 +76,7 @@ If no client connects it will reboot into Station mode, syncronize the clock and
 
 # 3D Prints
 
-There are some [OpenSCAD scripts](3d prints) for every build.
+There are some [OpenSCAD scripts](https://github.com/holgerlembke/ClockfGK/tree/ac29433762eaf7056e2b7ff82b6c3bd173d91447/3d%20prints) for every build.
 
 
 
