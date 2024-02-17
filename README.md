@@ -55,7 +55,7 @@ The 128 x 64 is for those who want an old style analog clock.
 ## Software
 
 It started with a quite simple solution for the 303WifiLC01. Then the other hardware options came and
-I decided to build a more universal clock software. So ClockfGK came into the world.
+I decided to build a more universal clock software. So [ClockfGK](ClockfGK) came into the world.
 
 
 # Software
@@ -76,8 +76,7 @@ If no client connects it will reboot into Station mode, syncronize the clock and
 
 # 3D Prints
 
-There are some OpenSCAD scripts for every build.
-
+There are some [OpenSCAD scripts](3d prints) for every build.
 
 
 
