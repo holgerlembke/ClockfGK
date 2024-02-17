@@ -13,6 +13,7 @@ It started with a simple request: could you please design a clock concept for a 
 My 'research' resulted in that there are not so many options. I settled with three builds.
 
 - a 2004 LC display
+    - ![](https://github.com/holgerlembke/ClockfGK/blob/main/img/clock20041s.jpg?raw=true)
     - esp8266 wemos d1 mini
     - LCD2004 display
     - i2c adapter for those displays
@@ -25,6 +26,7 @@ My 'research' resulted in that there are not so many options. I settled with thr
     - (4.7 kOhm resistors)
 
 - a 128x64 LC display
+    - ![](https://github.com/holgerlembke/ClockfGK/blob/main/img/clock128642s.jpg?raw=true)
     - esp8266 wemos d1 mini
     - 128 x 64 pixel i2c st7567s display
     - a 3 cm x 70 cm prototype pcb
