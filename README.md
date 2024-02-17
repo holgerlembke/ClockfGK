@@ -45,7 +45,7 @@ My 'research' resulted in that there are not so many options. I settled with thr
         - Switches are Mini Push Button 8 mm x 8 mm Self Locking
         - UART modul is "Ch340g ch340e modul usb ttl". Look out for those that can do 3.3 V and 5 V by jumper. You need 3.3 V!
         - Clamp is a Wolfcraft FZR 3016000
-        - Look at xxxxxxxxxx for more details.
+        - Look at [303WifiLC01hardware.md](https://github.com/holgerlembke/ClockfGK/blob/main/clock303wifilc01/303WifiLC01hardware.md) for more details.
 
 The last option is by far the simples, cheapest, low energy consumpting and totally unsexiest one. 
 
