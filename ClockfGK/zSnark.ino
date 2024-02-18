@@ -4,7 +4,7 @@
 
     Es ist die philosophische Frage, an welcher Stelle ich globale Variablen definiere.
 
-    C-Style ist, sie erst dort zu definieren, wo sie wirklch gebraucht werden. Adruino-Style ist, sie im ersten Sketch
+    C-Style ist, sie erst dort zu definieren, wo sie wirklch gebraucht werden. Arduino-Style ist, sie im ersten Sketch
     (ganz links) in einem Block zu deklarieren.
 
     Kann man so oder so machen. Ich finde den C-Style angenehmer. Resultat ist diese blöde Lösung. Ach je.

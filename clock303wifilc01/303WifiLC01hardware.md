@@ -28,7 +28,7 @@ without the Io0 switch (press and hold S1 button), but this is way more convinie
 # Buyers Guide
 
 * the clock modul is confusingly named something like "Nixie Tube Wifi Clock Modul 0,8 Zoll"
-* Programmer PCB is 2 cm x 8 cm with 6 rows of 28 holes
+* Programmer PCB is 2 cm x 8 cm with 6 rows x 28 holes
 * Pogo-Pins are named P75-E2 / P75-E3
 * Switches are Mini Push Button 8 mm x 8 mm Self Locking
 * UART modul is "Ch340g ch340e modul usb ttl". Look out for those that can do 3.3 V and 5 V by jumper. You need 3.3 V!

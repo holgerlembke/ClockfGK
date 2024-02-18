@@ -12,7 +12,7 @@ void holeNaechstenSonnenAufgangUntergang(time_t now, byte &hour, byte &minute, b
 
   double transitheute, sunriseheute, sunsetheute, transitmorgen, sunrisemorgen, sunsetmorgen;
 
-  // die funktionen zeigen auf einen statischen buffer, also muss der wert vor dem nächsten aufruf gesichtert werden
+  // die funktionen zeigen auf einen statischen buffer, also muss der wert vor dem nächsten aufruf gesichert werden
   tm *gt = gmtime(&now);
   int gth = gt->tm_hour;
   tm *lt = localtime(&now);
